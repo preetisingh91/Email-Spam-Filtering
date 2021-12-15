@@ -1,6 +1,9 @@
 # Email-Spam-Filtering
 This is a Machine Learning Based Project
 
+### used Algorithm
+In This Project i have used naive bayes classifier algorithm
+
 ### Introduction
 
 <li> What is Spam Email? </li>
